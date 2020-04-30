@@ -1,5 +1,21 @@
 # HeoresApp
 
+This project allow create and save data of any Superhero. This data is save in Firebase via HTTP.
+
+DEMO: 
+
+### Dev tools used:
+
+> HTML 5 , CSS 3, Bootstrap 4, Animate CSS, Font Awesome 5, Sweet Alert 2
+> ES6 , Angular 8
+> Firebase CRUD for Back End ( DataBase )
+
+### Dev tools link:
+
+> Animate CSS: https://daneden.github.io/animate.css/
+> Sweet Alert 2: http://sweetalert2.github.io/
+> Firebase: https://firebase.google.com/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server

@@ -1,0 +1,32 @@
+.btn:disabled{
+  cursor: not-allowed;
+}
+
+.titleForm {
+  display: flex;
+}
+
+input{
+  color: #000;
+}
+
+input:disabled{
+  color: rgb(75, 75, 75);
+}
+
+input::placeholder{
+  font-style: italic;
+  color: rgb(179, 179, 179);
+}
+
+@media only screen and (max-width: 768px) {
+  .titleForm{
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .titleForm{
+    flex-direction: row;
+  }
+}
